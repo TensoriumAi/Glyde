@@ -23,7 +23,7 @@ I built this tool so agenthustle.ai could be used within cursor and windsurf to 
 
 <div align="center">
   <video autoplay loop muted playsinline style="width: 66%; border: 2px solid #30363d; border-radius: 6px;">
-    <source src="docs/glyde.mp4" type="video/mp4">
+    <source src="./docs/glyde.mp4" type="video/mp4">
   </video>
 </div>
 
