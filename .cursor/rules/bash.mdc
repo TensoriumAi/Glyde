@@ -1,0 +1,9 @@
+---
+description: when running a bash command, make sure it's ran from the correct directory, get current working directory if you need first
+globs: 
+---
+
+# Your rule content
+
+- You can @ files here
+- You can use markdown but dont have to

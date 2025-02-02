@@ -1,0 +1,29 @@
+{
+  "scripts": [
+    {
+      "path": "scripts/chatgpt-prompt-inject.js",
+      "sessions": ["demo"],
+      "urlPatterns": {
+        "dev": ["localhost:3000", "127.0.0.1:3000"],
+        "prod": ["chat.openai.com", "chatgpt.com"]
+      }
+    },
+    {
+      "path": "scripts/hustle-prompt-inject.js", 
+      "sessions": ["*"],
+      "urlPatterns": {
+        "dev": ["localhost", "127.0.0.1"],
+        "prod": ["hustle.ai", "agenthustle.ai"]
+      }
+    },
+    {
+      "path": "scripts/click-monitor.js",
+      "sessions": ["*"],
+      "urlPatterns": {
+        "dev": ["*"],
+        "prod": ["*"]
+      }
+    }
+  ],
+  "plugins": []
+}
