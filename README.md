@@ -21,6 +21,12 @@ I built this tool so agenthustle.ai could be used within cursor and windsurf to 
 - 🛠 **Developer-First**: Built for developers, by developers
 - 🤖 **AI-Ready**: Seamless integration with AgentHustle and other AI platforms
 
+<div align="center">
+  <video autoplay loop muted playsinline style="width: 66%; border: 2px solid #30363d; border-radius: 6px;">
+    <source src="docs/glyde.mp4" type="video/mp4">
+  </video>
+</div>
+
 ## Quick Start
 
 ```bash
