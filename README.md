@@ -22,9 +22,9 @@ I built this tool so agenthustle.ai could be used within cursor and windsurf to 
 - 🤖 **AI-Ready**: Seamless integration with AgentHustle and other AI platforms
 
 <div align="center">
-  <video autoplay loop muted playsinline style="width: 66%; border: 2px solid #30363d; border-radius: 6px;">
-    <source src="glyde.mp4" type="video/mp4">
-  </video>
+  <a href="glyde.mp4">
+    <img src="glyde.gif" alt="Glyde Demo" width="33%">
+  </a>
 </div>
 
 ## Quick Start
